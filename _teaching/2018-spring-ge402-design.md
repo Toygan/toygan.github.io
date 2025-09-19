@@ -1,16 +1,16 @@
 ---
-title: "EEE 574 - Foundations of Magnetic Resonance Imaging"
+title: "GE 402 - Innovative Design and Entrepreneurship II"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/2018-spring-eee574
+type: "Undergraduate capstone course"
+permalink: /teaching/2018-spring-ge402
 venue: "Bilkent University, Department of Electrical and Electronics Engineering"
 date: 2018-01-01
 location: "Ankara, Turkey"
 ---
 
-Graduate-level course covering fundamentals of MRI.  
+Capstone course on innovation and entrepreneurship.  
 
-**Role:** Grader  
+**Role:** Grader and Laboratory Assistant  
 **Duration:** Jan. 2018 – June 2018  
 
 Heading 1

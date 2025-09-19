@@ -1,17 +1,17 @@
 ---
-title: "EEE 574 - Foundations of Magnetic Resonance Imaging"
+title: "EEE 530 - Digital Communications Theory"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2018-spring-eee574
+permalink: /teaching/2017-fall-eee530
 venue: "Bilkent University, Department of Electrical and Electronics Engineering"
-date: 2018-01-01
+date: 2017-10-01
 location: "Ankara, Turkey"
 ---
 
-Graduate-level course covering fundamentals of MRI.  
+Graduate-level course on communication theory and digital modulation.  
 
 **Role:** Grader  
-**Duration:** Jan. 2018 – June 2018  
+**Duration:** Oct. 2017 – Jan. 2018  
 
 Heading 1
 ======
