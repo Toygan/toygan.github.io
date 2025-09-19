@@ -41,11 +41,11 @@ author:
   github           : "Toygan"
   bitbucket        : 
   kaggle           : 
-  stackoverflow    : 
+  stackoverflow    : "4298049/toygan"
 
   # Social media
   linkedin         : "toygan-kilic"
-  twitter          : "toygankilic"   # if you want to use X
+  twitter          :
   bluesky          : 
   facebook         : 
   instagram        : 
@@ -58,7 +58,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'
-  conferences:
+  conference:
     title: 'Conference Papers'
 
 # Site Settings
@@ -164,12 +164,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
