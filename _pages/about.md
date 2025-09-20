@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Toygan Kilic – Academic Portfolio"
+title: "Toygan Kilic"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,9 +27,9 @@ Research Highlights
 
 Education
 ======
-- **Ph.D. Electrical & Computer Engineering**, University of Minnesota (2021–2026, GPA: 4.00)  
-- **M.S. Electrical & Electronics Engineering**, Bilkent University (2016–2019, GPA: 3.41)  
-- **B.S. Electrical & Electronics Engineering**, Bilkent University (2011–2016, GPA: 3.45)  
+- **Ph.D. Electrical & Computer Engineering**, University of Minnesota (2021–2026)  
+- **M.S. Electrical & Electronics Engineering**, Bilkent University (2016–2019)  
+- **B.S. Electrical & Electronics Engineering**, Bilkent University (2011–2016)  
 
 ---
 
