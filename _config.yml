@@ -9,7 +9,7 @@ site_theme               : "default"
 title                    : "Toygan Kilic"
 title_separator          : "-"
 name                     : &name "Toygan Kilic"
-description              : &description "Toygan Kilic’s academic portfolio and research website"
+description              : &description "Toygan Kilic's academic portfolio and research website"
 url                      : "https://toygan.github.io"   # Your GitHub Pages domain
 baseurl                  : ""                           # Empty since using root GitHub Pages
 repository               : "Toygan/toygan.github.io"    # Your repo
@@ -18,8 +18,8 @@ repository               : "Toygan/toygan.github.io"    # Your repo
 author:
   avatar           : "profile.png"
   name             : "Toygan Kilic"
-  pronouns         : "he/him"
-  bio              : "Ph.D. Candidate in Electrical & Computer Engineering at UMN, specializing in MRI, signal processing, and deep learning."
+  pronouns         : 
+  bio              : "Ph.D. Candidate in Electrical & Computer Engineering at the University of Minnesota. Specializing in signal and image processing with deep learning for ultra-high-field MRI."
   location         : "Minnesota, USA"
   employer         : "University of Minnesota"
   uri              : 
@@ -89,7 +89,7 @@ facebook:
   app_id                 : 
   publisher              : 
 og_image                 : "/images/profile.png"
-og_description           : "Toygan Kilic’s academic portfolio and research website"
+og_description           : "Toygan Kilic's academic portfolio and research website"
 social:
   type                   : Person
   name                   : "Toygan Kilic"

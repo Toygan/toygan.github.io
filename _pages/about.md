@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "TOYGAN KILIC"
+title: "Toygan Kilic"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,21 +12,26 @@ I am Toygan Kilic, a Ph.D. candidate in Electrical and Computer Engineering at t
 
 Previously, I worked in radar system design, FPGA development, and image processing at ASELSAN and ORTANA, as well as multi-contrast MRI reconstruction during my Master’s studies at Bilkent University. These experiences shaped my expertise across domains such as MR image reconstruction, radar SAR, HDR imaging, embedded systems, and low-level algorithm implementation.  
 
-On this site, you will find information about my **publications, talks, projects, teaching, and CV**.  
+On this site, you will find information about my **publications, projects, teaching, and CV**.  
 
 ---
 
 Research Highlights
 ======
-- **Deep Learning for Parallel Transmission (pTx):** Developed unsupervised CNN-based methods for B1⁺ inhomogeneity correction at 7T in collaboration with Siemens.  
+- **Deep Learning for Parallel Transmission (pTx):** Developed unsupervised CNN-based methods for B_1^⁺ inhomogeneity correction at 7T in collaboration with Siemens.  
 - **Diffusion MRI Reconstruction:** Designed physics-driven priors and score-based denoising methods for accelerated and artifact-corrected diffusion imaging.  
-- **Radar & FPGA Systems:** Implemented and optimized radar imaging algorithms, communication protocols (UART, I2C), and real-time FPGA-based designs.  
+- **Radar System:** Implemented and optimized radar imaging algorithms, communication protocols (UART, I^2C), and real-time FPGA-based designs.  
 - **Image Processing:** Experience in HDR imaging pipelines, camera calibration, and medical image quality enhancement.  
 
 ---
 
 Education
 ======
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/UMN_M_wordmark_maroon.png" alt="University of Minnesota" height="60" style="margin-right: 30px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bilkent_University_logo.png" alt="Bilkent University" height="60"/>
+</p>
+
 - **Ph.D. Electrical & Computer Engineering**, University of Minnesota (2021–2026)  
 - **M.S. Electrical & Electronics Engineering**, Bilkent University (2016–2019)  
 - **B.S. Electrical & Electronics Engineering**, Bilkent University (2011–2016)  
@@ -36,5 +41,5 @@ Education
 Skills
 ======
 - **Programming & Tools:** Python, PyTorch, MATLAB, C++, VHDL, Git/GitHub, Linux/Unix  
-- **Domains:** MRI (reconstruction, pulse design, IDEA sequence programming), Signal & Image Processing, Radar SAR, HDR Imaging, Embedded Systems, FPGA/DSP  
+- **Domains:** Signal & Image Processing for MRI (reconstruction, pulse design, IDEA sequence programming), Radar SAR, HDR Imaging, Embedded Systems
 
