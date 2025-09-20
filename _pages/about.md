@@ -18,9 +18,10 @@ On this site, you will find information about my **publications, projects, teach
 
 Research Highlights
 ======
-- **Deep Learning for Parallel Transmission (pTx):** Developed unsupervised CNN-based methods for B_1^⁺ inhomogeneity correction at 7T in collaboration with Siemens.  
+
+- **Deep Learning for Parallel Transmission (pTx):** Developed unsupervised CNN-based methods for B<sub>1</sub><sup>+</sup> inhomogeneity correction at 7T in collaboration with Siemens.  
 - **Diffusion MRI Reconstruction:** Designed physics-driven priors and score-based denoising methods for accelerated and artifact-corrected diffusion imaging.  
-- **Radar System:** Implemented and optimized radar imaging algorithms, communication protocols (UART, I^2C), and real-time FPGA-based designs.  
+- **Radar System:** Implemented and optimized radar imaging algorithms, communication protocols (UART, I<sup>2</sup>C), and real-time FPGA-based designs.  
 - **Image Processing:** Experience in HDR imaging pipelines, camera calibration, and medical image quality enhancement.  
 
 ---
