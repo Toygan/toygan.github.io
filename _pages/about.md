@@ -27,13 +27,10 @@ Research Highlights
 
 Education
 ======
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/UMN_M_wordmark_maroon.png" alt="University of Minnesota" height="60" style="margin-right: 30px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Bilkent_University_logo.png" alt="Bilkent University" height="60"/>
-</p>
-
-- **Ph.D. Electrical & Computer Engineering**, University of Minnesota (2021–2026)  
-- **M.S. Electrical & Electronics Engineering**, Bilkent University (2016–2019)  
+<img src="/images/UMN.jpeg" alt="University of Minnesota" width="24" style="vertical-align:middle; margin-right:6px;"/> 
+Computer Engineering**, University of Minnesota (2021–2026)  
+<img src="/images/bilkent_university.png" alt="Bilkent University" width="24" style="vertical-align:middle; margin-right:6px;"/> 
+**M.S. Electrical & Electronics Engineering**, Bilkent University (2016–2019)  
 - **B.S. Electrical & Electronics Engineering**, Bilkent University (2011–2016)  
 
 ---
