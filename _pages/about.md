@@ -28,7 +28,7 @@ Research Highlights
 Education
 ======
 
-<img src="/images/UMN.jpeg" alt="University of Minnesota" width="24" style="vertical-align:middle; margin-right:6px;"/> 
+<img src="/images/umn.png" alt="University of Minnesota" width="24" style="vertical-align:middle; margin-right:6px;"/> 
 **Ph.D. in Electrical & Computer Engineering**, University of Minnesota (2021 – 2026)  
 
 <img src="/images/bilkent_university.png" alt="Bilkent University" width="24" style="vertical-align:middle; margin-right:6px;"/> 
