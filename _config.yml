@@ -6,7 +6,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Toygan Kilic"
+title                    : "TOYGAN KILIC"
 title_separator          : "-"
 name                     : &name "Toygan Kilic"
 description              : &description "Toygan Kilic's academic portfolio and research website"
@@ -17,7 +17,7 @@ repository               : "Toygan/toygan.github.io"    # Your repo
 # Site Author - Sidebar information
 author:
   avatar           : "profile.png"
-  name             : "Toygan Kilic"
+  name             : "TOYGAN KILIC"
   pronouns         : 
   bio              : "Ph.D. Candidate in Electrical & Computer Engineering at the University of Minnesota. Specializing in signal and image processing with deep learning for ultra-high-field MRI."
   location         : "Minnesota, USA"
