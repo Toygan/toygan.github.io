@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Toygan Kilic"
+title: "TOYGAN KILIC"
 author_profile: true
 redirect_from: 
   - /about/
