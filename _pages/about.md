@@ -13,17 +13,6 @@ I am Toygan Kilic, a Ph.D. candidate in Electrical and Computer Engineering at t
 Previously, I worked in radar system design, FPGA development, and image processing at ASELSAN and ORTANA, as well as multi-contrast MRI reconstruction during my Master’s studies at Bilkent University. These experiences shaped my expertise across domains such as MR image reconstruction, radar SAR, HDR imaging, embedded systems, and low-level algorithm implementation.  
 
 On this site, you will find information about me.
----
-
-Research Highlights
-======
-
-- **Deep Learning for Parallel Transmission (pTx):** Developed unsupervised CNN-based methods for B<sub>1</sub><sup>+</sup> inhomogeneity correction at 7T in collaboration with Siemens.  
-- **Diffusion MRI Reconstruction:** Designed physics-driven priors and score-based denoising methods for accelerated and artifact-corrected diffusion imaging.  
-- **Radar System:** Implemented and optimized radar imaging algorithms, communication protocols (UART, I<sup>2</sup>C), and real-time FPGA-based designs.  
-- **Image Processing:** Experience in HDR imaging pipelines, camera calibration, and medical image quality enhancement.  
-
----
 
 Education
 ======
@@ -36,11 +25,3 @@ Education
 
 <img src="/images/bilkent_university.png" alt="Bilkent University" width="24" style="vertical-align:middle; margin-right:6px;"/> 
 **B.S. in Electrical & Electronics Engineering**, Bilkent University (2011 – 2016)  
-
----
-
-Skills
-======
-- **Programming & Tools:** Python, PyTorch, MATLAB, C++, VHDL, Git/GitHub, Linux/Unix  
-- **Domains:** Signal & Image Processing for MRI (reconstruction, pulse design, IDEA sequence programming), Radar SAR, HDR Imaging, Embedded Systems
-
