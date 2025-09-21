@@ -6,7 +6,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About Me"
+title                    : "TOYGAN KILIC"
 title_separator          : "-"
 name                     : &name "Toygan Kilic"
 description              : &description "Toygan Kilic's academic portfolio and research website"
