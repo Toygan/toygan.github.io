@@ -16,7 +16,7 @@ repository               : "Toygan/toygan.github.io"    # Your repo
 
 # Site Author - Sidebar information
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Toygan Kilic"
   pronouns         : 
   bio              : "Ph.D. Candidate in Electrical & Computer Engineering at the UMN. Specializing in deep learning for ultra-high-field MRI."
