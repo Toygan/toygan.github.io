@@ -18,10 +18,10 @@ Education
 ======
 
 <img src="/images/umn.png" alt="University of Minnesota" width="24" style="vertical-align:middle; margin-right:6px;"/> 
-**Ph.D. in Electrical & Computer Engineering**, University of Minnesota (2021 – 2026)  
+**Ph.D. in Electrical & Computer Engineering**, [University of Minnesota](https://twin-cities.umn.edu) (2021 – 2026)  
 
 <img src="/images/bilkent_university.png" alt="Bilkent University" width="24" style="vertical-align:middle; margin-right:6px;"/> 
-**M.S. in Electrical & Electronics Engineering**, Bilkent University (2016 – 2019)  
+**M.S. in Electrical & Electronics Engineering**, [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) (2016 – 2019)  
 
 <img src="/images/bilkent_university.png" alt="Bilkent University" width="24" style="vertical-align:middle; margin-right:6px;"/> 
-**B.S. in Electrical & Electronics Engineering**, Bilkent University (2011 – 2016)  
+**B.S. in Electrical & Electronics Engineering**, [Bilkent University](https://w3.bilkent.edu.tr/bilkent/) (2011 – 2016)  
