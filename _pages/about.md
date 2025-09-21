@@ -12,8 +12,7 @@ I am Toygan Kilic, a Ph.D. candidate in Electrical and Computer Engineering at t
 
 Previously, I worked in radar system design, FPGA development, and image processing at ASELSAN and ORTANA, as well as multi-contrast MRI reconstruction during my Master’s studies at Bilkent University. These experiences shaped my expertise across domains such as MR image reconstruction, radar SAR, HDR imaging, embedded systems, and low-level algorithm implementation.  
 
-On this site, you will find information about my **publications, projects, teaching, and CV**.  
-
+On this site, you will find information about me.
 ---
 
 Research Highlights
