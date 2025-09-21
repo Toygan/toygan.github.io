@@ -12,12 +12,3 @@ Introductory computing course using MATLAB.
 
 **Role:** Laboratory Assistant  
 **Duration:** June 2015 – Aug. 2015; Oct. 2015 – Jan. 2016  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

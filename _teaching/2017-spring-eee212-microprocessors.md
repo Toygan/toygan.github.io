@@ -12,12 +12,4 @@ Introductory course on microprocessors and embedded systems.
 
 **Role:** Laboratory Assistant  
 **Duration:** Jan. 2017 – June 2017; Jan. 2016 – June 2016  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ 

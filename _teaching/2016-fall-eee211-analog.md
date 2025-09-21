@@ -12,12 +12,3 @@ Course on analog circuit design and electronics.
 
 **Role:** Laboratory Assistant  
 **Duration:** Oct. 2016 – Jan. 2017  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

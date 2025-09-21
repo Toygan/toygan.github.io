@@ -12,12 +12,3 @@ Graduate-level course covering fundamentals of MRI.
 
 **Role:** Grader  
 **Duration:** Jan. 2018 – June 2018  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

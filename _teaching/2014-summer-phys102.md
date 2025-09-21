@@ -12,12 +12,3 @@ Introductory calculus-based physics (electricity and magnetism).
 
 **Role:** Grader  
 **Duration:** June 2014 – Sept. 2014  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

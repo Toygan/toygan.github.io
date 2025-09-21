@@ -12,12 +12,4 @@ Capstone course on innovation and entrepreneurship.
 
 **Role:** Grader and Laboratory Assistant  
 **Duration:** Jan. 2018 – June 2018  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ 

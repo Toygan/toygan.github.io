@@ -12,12 +12,4 @@ Graduate-level course on communication theory and digital modulation.
 
 **Role:** Grader  
 **Duration:** Oct. 2017 – Jan. 2018  
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+ 
