@@ -34,14 +34,14 @@ author:
   orcid            : "https://orcid.org/0000-0001-7969-5738"
   semantic         : 
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Toygan-Kilic"
+  # researchgate     : "https://www.researchgate.net/profile/Toygan-Kilic"
   scopus           : 
 
   # Repositories
   github           : "Toygan"
   bitbucket        : 
   kaggle           : 
-  stackoverflow    : "4298049/toygan"
+  # stackoverflow    : "4298049/toygan"
 
   # Social media
   linkedin         : "toygan-kilic"
