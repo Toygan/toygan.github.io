@@ -1,16 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Professional Background"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome!  
-I am a Ph.D. candidate in Electrical and Computer Engineering at the University of Minnesota, specializing in MRI reconstruction, parallel transmission (pTx), and deep learning for medical imaging. My research combines signal processing, optimization, and machine learning to address challenges in high-field MRI technology.
-
-Previously, I worked in radar system design, FPGA development, and image processing at ASELSAN and ORTANA, as well as multi-contrast MRI reconstruction during my Master’s studies at Bilkent University. These experiences shaped my expertise across domains such as MR image reconstruction, radar SAR, HDR imaging, embedded systems, and low-level algorithm implementation.  
+As a specialist in signal/image processing, I have applied my expertise in computational imaging across multiple domains, including magnetic resonance (MR) image reconstruction, camera imaging, and radar SAR algorithms, building a strong foundation in both hand-crafted and data-driven algorithm design. My work as a radar system engineer exposed me to diverse aspects of projects where I refined algorithms for practical use, while my role as an FPGA engineer strengthened my ability to implement algorithms at a low level, bridging theory with hardware. Currently, during my Ph.D., I am focusing on optimization algorithms for machine/deep learning applications, particularly in parallel transmit (pTx) pulse design, where I combine my background in signal processing with modern ML/DL frameworks to develop innovative solutions for next-generation MRI technology.
 
 Education
 ======
