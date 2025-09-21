@@ -134,6 +134,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - sitemap.xml
 keep_files:
   - .git
   - .svn
