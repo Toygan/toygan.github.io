@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justify;">
 As a specialist in signal/image processing, I have applied my expertise in computational imaging across multiple domains, including magnetic resonance (MR) image reconstruction, camera imaging, and radar SAR algorithms, building a strong foundation in both hand-crafted and data-driven algorithm design. My work as a radar system engineer exposed me to diverse aspects of projects where I refined algorithms for practical use, while my role as an FPGA engineer strengthened my ability to implement algorithms at a low level, bridging theory with hardware. Currently, during my Ph.D., I am focusing on optimization algorithms for machine/deep learning applications, particularly in parallel transmit (pTx) pulse design, where I combine my background in signal processing with modern ML/DL frameworks to develop innovative solutions for next-generation MRI technology.
+</div>
 
 Education
 ======
